@@ -7,7 +7,7 @@ export default props => {
   return (
     <div>
       <div id="position" name="foobar">
-        <p>Hola Footer</p>
+        <p>Hi dummy Footer</p>
       </div>
     </div>
   )
