@@ -1,14 +1,14 @@
 [
   {
-    "description": "hola mundo",
-    "points": 10
+    "description": "foo",
+    "points": 5
   },
   {
-    "description": "hola mundo 2",
-    "points": 10
+    "description": "bar",
+    "points": 5
   },
   {
-    "description": "hola mundo 3",
+    "description": "foobar",
     "points": 10
   }
 ]

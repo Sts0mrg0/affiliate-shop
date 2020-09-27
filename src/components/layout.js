@@ -4,7 +4,14 @@ import FooterLayout from "./FooterLayout"
 
 export default function Layout({ children }) {
   return (
-    <div style={{ margin: `0 auto`, maxWidth: 650, padding: `0 1rem` }}>
+    <div
+      style={{
+        position: "relative",
+        margin: `0 auto`,
+        maxWidth: 650,
+        padding: `0 1rem`,
+      }}
+    >
       <HeaderLayout />
       {children}
       <FooterLayout />
