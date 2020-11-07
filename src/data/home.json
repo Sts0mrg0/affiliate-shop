@@ -1,0 +1,102 @@
+[
+  {
+    "noticias": [
+      {
+        "id": 0,
+        "title": "Un mengano en una nave espacial",
+        "content": "Virtute equidem ceteros in mel. Id volutpat neglegentur eos. Eu eum facilisis voluptatum, no eam albucius verterem. Sit congue platonem adolescens ut. Offendit reprimique et has, eu mei homero imperdiet. ei erat mucius quaeque. Ei his quas phaedrum, efficiantur mediocritatem ne sed, hinc oratio blandit ei sed. Blandit gloriatur eam et. Brute noluisse per et, verear disputando neglegentur at quo. Sea quem legere ei, unum soluta ne duo. Ludus complectitur quo te, ut vide autem homero pro. vocent signiferumque pri et. Facilis corpora recusabo ne quo, eum ne eruditi blandit suscipiantur. Mazim sapientem sed id, sea debet commune iracundia in. Eius falli propriae te usu. In usu nonummy volumus expetenda, sint quando facilisis ei per, delectus constituto sea te.",
+        "rating": 5
+      },
+      {
+        "id": 1,
+        "title": "El Naner gana un super torneo de poker",
+        "content": "Virtute equidem ceteros in mel. Id volutpat neglegentur eos. Eu eum facilisis voluptatum, no eam albucius verterem. Sit congue platonem adolescens ut. Offendit reprimique et has, eu mei homero imperdiet. ei erat mucius quaeque. Ei his quas phaedrum, efficiantur mediocritatem ne sed, hinc oratio blandit ei sed. Blandit gloriatur eam et. Brute noluisse per et, verear disputando neglegentur at quo. Sea quem legere ei, unum soluta ne duo. Ludus complectitur quo te, ut vide autem homero pro. vocent signiferumque pri et. Facilis corpora recusabo ne quo, eum ne eruditi blandit suscipiantur. Mazim sapientem sed id, sea debet commune iracundia in. Eius falli propriae te usu. In usu nonummy volumus expetenda, sint quando facilisis ei per, delectus constituto sea te.",
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "title": "El Jota Millonario soltero",
+        "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.",
+        "rating": 5
+      },
+      {
+        "id": 3,
+        "title": "El Yisas nuevo grammy",
+        "content": "Wisi forensibus mnesarchum in cum. Per id impetus abhorreant, his no magna definiebas, inani rationibus in quo. Ut vidisse dolores est, ut quis nominavi mel. Ad pri quod apeirian concludaturque, id timeam iudicabit rationibus pri. Erant putant luptatum ex sit, error euismod ad qui, meliore voluptatum complectitur an vix. Clita persius sed et, vix vidit consulatu complectitur ex. Per nonummy postulant assentior an, mea audiam fabellas deserunt id.",
+        "rating": 5
+      }
+    ],
+    "productos": [
+      {
+        "id": 0,
+        "title": "Mi band 5",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51F2t3z6v3L._AC_SX679_.jpg"
+      },
+      {
+        "id": 1,
+        "title": "Mi band 5",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51F2t3z6v3L._AC_SX679_.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Mi band 5",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51F2t3z6v3L._AC_SX679_.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Mi band 5",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51F2t3z6v3L._AC_SX679_.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Mi band 5",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51F2t3z6v3L._AC_SX679_.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Mi band 5",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51F2t3z6v3L._AC_SX679_.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Mi band 5",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51F2t3z6v3L._AC_SX679_.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Mi band 5",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51F2t3z6v3L._AC_SX679_.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Mi band 5",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51F2t3z6v3L._AC_SX679_.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Mi band 5",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51F2t3z6v3L._AC_SX679_.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Mi band 5",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51F2t3z6v3L._AC_SX679_.jpg"
+      },
+      {
+        "id": 11,
+        "title": "Mi band 5",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/4136Dpt5-xL._AC_.jpg"
+      },
+      {
+        "id": 12,
+        "title": "Mi band 5",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/4136Dpt5-xL._AC_.jpg"
+      },
+      {
+        "id": 13,
+        "title": "Mi band 5",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/4136Dpt5-xL._AC_.jpg"
+      }
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  overflow-x: hidden;
+  background-color: lightgrey
+}
+
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+@font-face {
+  font-family: "JosefinSlab-regular";
+  src: url('../fonts/JosefinSlab/JosefinSlab-Regular.ttf');
+}
+
+@font-face {
+  font-family: "AdventPro-regular";
+  src: url('../fonts/AdventPro/AdventPro-Regular.ttf');
+}
+
+@font-face {
+  font-family: "Buenard-regular";
+  src: url('../fonts/Buenard/Buenard-Regular.ttf');
+}
+
+.slick-track {
+  display: flex !important;
+}
+
+.slick-track .slick-slide {
+  display: flex !important;
+  height: auto;
+  align-items: center;
+  justify-content: center;
+}
+
+.slick-slide>div {
+      width: 594px;
+    margin: 3px;
+}
+
+div > span {
+  margin-bottom: 0;
+}

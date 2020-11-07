@@ -1,0 +1,19 @@
+{
+  "parserOptions": {
+        "sourceType": "module"
+    },
+  "parser": "babel-eslint",
+  "rules": {
+    "react/jsx-uses-react": "error",
+    "react/jsx-uses-vars": "error",
+    "react/display-name": "off"
+  },
+  "extends": [
+    "eslint:recommended",
+    "plugin:react/recommended"
+  ],
+  "env":{
+    "browser": true,
+    "es6": true
+  }
+}
