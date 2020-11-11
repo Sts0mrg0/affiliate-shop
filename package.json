@@ -32,7 +32,12 @@
     "slick-carousel": "^1.8.1"
   },
   "devDependencies": {
-    "prettier": "2.1.1"
+    "babel-jest": "^26.6.3",
+    "babel-preset-gatsby": "^0.5.16",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^26.6.3",
+    "prettier": "2.1.1",
+    "react-test-renderer": "^17.0.1"
   },
   "repository": {
     "type": "git",
