@@ -211,8 +211,6 @@ function InfoWrapper(props) {
 
 export default function HeaderLayout(props) {
   const classes = useStyles()
-  console.log("foobar")
-  console.log(props)
   /*const images = [
     "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRYi55h4VHmsA40aCEC7qmFzdMczxIFbYXZHZw-6N2GDrV2FFOC_orAjlrOyw&usqp=CAY",
     "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRPv73YcRSN0BazCxU3ZLwNgYen42535aF45Zlq-0tYEZXLNTqn31spSYPFzWhIJtj4CruNGmk&usqp=CAY",
@@ -267,7 +265,6 @@ export default function HeaderLayout(props) {
             const opiniones = data.allHeaderJson.nodes[0].opiniones
 
             const listOpiniones = opiniones.map(opinion => {
-              console.log(opinion)
               return (
                 <Paper key={opinion.id} className={classes.cardOpinion}>
                   <div className={classes.imgBox}>

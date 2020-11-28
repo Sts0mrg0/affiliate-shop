@@ -53,7 +53,7 @@ export default function Layout({ children }) {
       <div style={{
         minHeight: "calc(100vh - (8px + 64px + 600px + 56px + 8px))"
       }}>{children}</div>
-      <FooterLayout />
+
       <ToTopButton></ToTopButton>
     </div>
   )

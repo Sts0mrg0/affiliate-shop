@@ -115,13 +115,10 @@ const mockApi = (url, productos) => {
   const postsInApi = productos
 
   return new Promise(res => {
-    console.log("url: ")
-    console.log(postsInApi)
     setTimeout(() => {
       let [start, end] = url.split("&")
       start = start.split("=")[1]
       end = end.split("=")[1]
-      console.log(start, end)
       res(postsInApi.slice(start, end))
     }, 1000) // Manual trothle for visual purposes
   })
